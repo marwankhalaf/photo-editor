@@ -1,3 +1,5 @@
+// start js
+
 let saturate = document.getElementById("saturate");
 let contrast = document.getElementById("contrast");
 let brightness = document.getElementById("brightness");
